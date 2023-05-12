@@ -9,11 +9,11 @@ public class Main
 
         System.out.println("——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———");
 
-        System.out.println("a: ");
+        System.out.print("a: ");
 
         float a = s.nextFloat();
 
-        System.out.println("b: ");
+        System.out.print("b: ");
 
         float b = s.nextFloat();
 

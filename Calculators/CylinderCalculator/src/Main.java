@@ -9,21 +9,25 @@ public class Main
 
         System.out.println("——— Cylinder Calculator — Made by Om Rawaley ———");
 
-        System.out.println("r: ");
+        System.out.print("π: ");
+
+        float pi = s.nextFloat();
+
+        System.out.print("r: ");
 
         float radius = s.nextFloat();
 
-        System.out.println("h: ");
+        System.out.print("h: ");
 
         float height = s.nextFloat();
 
-        float faceArea = radius * radius * 3.14f;
+        float faceArea = pi * radius * radius;
 
         float volume = faceArea * height;
 
         float topSurfaceArea = faceArea * 2;
 
-        float sideSurfaceArea = 2 * 3.14f * radius * height;
+        float sideSurfaceArea = 2 * pi * radius * height;
 
         float totalSurfaceArea = topSurfaceArea + sideSurfaceArea;
 

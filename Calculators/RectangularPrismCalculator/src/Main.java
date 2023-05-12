@@ -9,19 +9,21 @@ public class Main
 
         System.out.println("——— Rectangular Prism / Cube Calculator — Made by Om Rawaley ———");
 
-        System.out.println("w: ");
+        System.out.print("w: ");
 
         float w = s.nextFloat();
 
-        System.out.println("h: ");
+        System.out.print("h: ");
 
         float h = s.nextFloat();
 
-        System.out.println("l: ");
+        System.out.print("l: ");
 
         float l = s.nextFloat();
 
-        float volume = w * h * l;
+        float faceArea = w * h;
+
+        float volume = faceArea * l;
 
         float surfaceArea = 2 * (w * l + h * l + w * h);
 

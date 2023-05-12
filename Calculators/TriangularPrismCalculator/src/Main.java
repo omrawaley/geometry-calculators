@@ -8,23 +8,23 @@ public class Main {
 
         System.out.println("——— Triangular Prism Calculator — Made by Om Rawaley ———");
 
-        System.out.println("a: ");
+        System.out.print("a: ");
 
         float a = s.nextFloat();
 
-        System.out.println("b: ");
+        System.out.print("b: ");
 
         float b = s.nextFloat();
 
-        System.out.println("c: ");
+        System.out.print("c: ");
 
         float c = s.nextFloat();
 
-        System.out.println("h: ");
+        System.out.print("h: ");
 
         float h = s.nextFloat();
 
-        System.out.println("l: ");
+        System.out.print("l: ");
 
         float l = s.nextFloat();
 

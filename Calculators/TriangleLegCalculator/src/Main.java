@@ -9,11 +9,11 @@ public class Main
 
         System.out.println("——— Triangle Leg Calculator / Finder — Made by Om Rawaley ———");
 
-        System.out.println("a: ");
+        System.out.print("a: ");
 
         float a = s.nextFloat();
 
-        System.out.println("c: ");
+        System.out.print("c: ");
 
         float c = s.nextFloat();
 
