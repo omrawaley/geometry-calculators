@@ -25,6 +25,8 @@ Note: Only tested on MacOS.
 
 ## For C++
 
-The fastest so far, I think.
+The fastest so far, I think!
 
-`cd` into the directory with the `calculator` executable and run `./calculator` in your command line!
+`cd` into `CylinderCalculator` and run `./calculator` in your command line!
+
+Makefile is included and to recompile `cd` into `CylinderCalculator` and run `make calculator` in your command line!
