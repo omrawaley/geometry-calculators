@@ -14,29 +14,40 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-import java.util.Scanner;
-import java.io.*;
+#include <iostream>
 
-public class Main
+int main()
 {
-    public static void main(String[] args) throws IOException
-    {
-        Scanner s = new Scanner(System.in);
+	float pi;
+	float r;
+	float h;
 
-        System.out.println("——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———\n");
+	std::cout << "——— Cylinder Calculator — Made by Om Rawaley ———" << "\n\n";
 
-        System.out.print("a: ");
+	std::cout << "π: ";
 
-        float a = s.nextFloat();
+	std::cin >> pi;
 
-        System.out.print("b: ");
+	std::cout << "r: ";
 
-        float b = s.nextFloat();
+	std::cin >> r;
 
-        float squareSum = a * a + b * b;
+	std::cout << "h: ";
 
-        double c = Math.sqrt(squareSum);
+	std::cin >> h;
 
-        System.out.println("\nHypotenuse: " + c);
-    }
+	float faceArea = pi * r * r;
+
+	float volume = faceArea * h;
+
+	float topSurfaceArea = faceArea * 2;
+
+	float sideSurfaceArea = 2 * pi * r * h;
+
+	float totalSurfaceArea = topSurfaceArea + sideSurfaceArea;
+
+	std::cout << "\nVolume: " << volume;
+	std::cout << "\nSurfaceArea: " << totalSurfaceArea << "\n\n";
+
+	return 0;
 }
