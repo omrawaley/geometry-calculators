@@ -1,5 +1,5 @@
 # Calculators
-A bunch of calculators—surface area, volume, hypotenuse, etc.
+A bunch of calculators—surface area, volume, hypotenuse, etc—written in Java, Python, C#, and C++. 
 
 Java, Python, C#, and C++ versions available in the `Java`, `Python`, `C#`, and `C++` folders.
 
