@@ -29,4 +29,4 @@ The fastest so far, I think!
 
 Double click the executable (`calculator`) to run. You can alternatively `cd` into `CylinderCalculator` and run `./calculator` in your command line!
 
-Makefile is included and to recompile, `cd` into `CylinderCalculator` and run `make calculator` in your command line!
+Makefile is included and to recompile, `cd` into `CylinderCalculator` and run `make calculator` in your command line after editing!
