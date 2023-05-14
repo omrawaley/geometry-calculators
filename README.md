@@ -13,7 +13,7 @@ Run `java -jar "path-to-jar"` in your command line!
 
 Might be a bit slower lol.
 
-Executables available in the `exec` folder!
+Executables available in the `exec` folder! (Created via [PyInstaller](https://pyinstaller.org/en/stable/))
 
 Run `python "path-to-py"` in your command line when using source code. Double click or cd into the directory with the executable and run `./main` to run the executable!
 
