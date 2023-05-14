@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-print("——— Rectangular Prism / Cube Calculator — Made by Om Rawaley ———\n")
+print("\n——— Rectangular Prism / Cube Calculator — Made by Om Rawaley ———\n")
 
 w = float(input("w: "))
 

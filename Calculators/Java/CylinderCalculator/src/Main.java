@@ -23,7 +23,7 @@ public class Main
     {
         Scanner s = new Scanner(System.in);
 
-        System.out.println("——— Cylinder Calculator — Made by Om Rawaley ———\n");
+        System.out.println("\n——— Cylinder Calculator — Made by Om Rawaley ———\n");
 
         System.out.print("π: ");
 

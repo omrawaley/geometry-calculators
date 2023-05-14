@@ -20,31 +20,35 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Console.WriteLine("\n——— Cylinder Calculator — Made by Om Rawaley ———\n");
+		Console.WriteLine("\n——— Triangular Prism Calculator — Made by Om Rawaley ———\n");
 
-		Console.Write("π: ");
+		Console.Write("a: ");
 
-		decimal pi = Convert.ToDecimal(Console.ReadLine());
+		decimal a = Convert.ToDecimal(Console.ReadLine());
 
-		Console.Write("r: ");
+		Console.Write("b: ");
 
-		decimal r = Convert.ToDecimal(Console.ReadLine());
+		decimal b = Convert.ToDecimal(Console.ReadLine());
+
+		Console.Write("c: ");
+
+		decimal c = Convert.ToDecimal(Console.ReadLine());
 
 		Console.Write("h: ");
 
 		decimal h = Convert.ToDecimal(Console.ReadLine());
 
-		decimal faceArea = pi * r * r;
+		Console.Write("l: ");
 
-		decimal volume = faceArea * h;
+		decimal l = Convert.ToDecimal(Console.ReadLine());
 
-		decimal topSurfaceArea = faceArea * 2;
+		decimal faceArea = b * h / 2;
 
-		decimal sideSurfaceArea = 2 * pi * r * h;
+		decimal volume = faceArea * l;
 
-		decimal totalSurfaceArea = topSurfaceArea + sideSurfaceArea;
+		decimal surfaceArea = a * l + b * l + c * l + faceArea * 2;
 
 		Console.WriteLine("\nVolume: " + volume);
-		Console.WriteLine("Surface Area: " + totalSurfaceArea + "\n");
+		Console.WriteLine("SurfaceArea: " + surfaceArea + "\n");
 	}
 }

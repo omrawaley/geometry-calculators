@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-print("——— Cylinder Calculator — Made by Om Rawaley ———\n")
+print("\n——— Cylinder Calculator — Made by Om Rawaley ———\n")
 
 pi = float(input("π: "))
 

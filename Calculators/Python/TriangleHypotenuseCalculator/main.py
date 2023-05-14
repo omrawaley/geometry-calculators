@@ -16,7 +16,7 @@ limitations under the License.
 
 import math
 
-print("——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———\n")
+print("\n——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———\n")
 
 a = float(input("a: "))
 

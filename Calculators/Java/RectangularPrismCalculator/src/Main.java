@@ -23,7 +23,7 @@ public class Main
     {
         Scanner s = new Scanner(System.in);
 
-        System.out.println("——— Rectangular Prism / Cube Calculator — Made by Om Rawaley ———\n");
+        System.out.println("\n——— Rectangular Prism / Cube Calculator — Made by Om Rawaley ———\n");
 
         System.out.print("w: ");
 

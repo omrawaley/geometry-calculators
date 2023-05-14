@@ -23,7 +23,7 @@ public class Main
     {
         Scanner s = new Scanner(System.in);
 
-        System.out.println("——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———\n");
+        System.out.println("\n——— Triangle Hypotenuse Calculator / Finder — Made by Om Rawaley ———\n");
 
         System.out.print("a: ");
 

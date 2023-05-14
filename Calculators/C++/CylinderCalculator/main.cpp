@@ -22,7 +22,7 @@ int main()
 	float r;
 	float h;
 
-	std::cout << "——— Cylinder Calculator — Made by Om Rawaley ———" << "\n\n";
+	std::cout << "\n——— Cylinder Calculator — Made by Om Rawaley ———\n\n";
 
 	std::cout << "π: ";
 
