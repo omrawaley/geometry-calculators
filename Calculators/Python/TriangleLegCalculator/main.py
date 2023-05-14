@@ -1,6 +1,6 @@
 import math
 
-print("——— Triangle Leg Calculator / Finder — Made by Om Rawaley ———")
+print("——— Triangle Leg Calculator / Finder — Made by Om Rawaley ———\n")
 
 a = float(input("a: "))
 

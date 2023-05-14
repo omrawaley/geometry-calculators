@@ -1,4 +1,4 @@
-print("——— Triangular Prism Calculator — Made by Om Rawaley ———")
+print("——— Triangular Prism Calculator — Made by Om Rawaley ———\n")
 
 a = float(input("a: "))
 

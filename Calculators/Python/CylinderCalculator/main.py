@@ -1,6 +1,4 @@
-print("——— Cylinder Calculator — Made by Om Rawaley ———")
-
-print("π: ")
+print("——— Cylinder Calculator — Made by Om Rawaley ———\n")
 
 pi = float(input("π: "))
 
