@@ -15,7 +15,7 @@ Might be a bit slower lol.
 
 Executables available in the `exec` folder! (Created via [PyInstaller](https://pyinstaller.org/en/stable/))
 
-Run `python "path-to-py"` in your command line when using source code. Double click or cd into the directory with the executable and run `./main` to run the executable!
+Run `python "path-to-py"` in your command line when using source code. Double click the executable or cd into the directory with the executable and run `./main` to run the executable!
 
 Note: You may have to use either `python` or `python3` depending on your installed version of Python.
 
