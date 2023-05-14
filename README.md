@@ -13,7 +13,9 @@ Run `java -jar "path-to-jar"` in your command line!
 
 Might be a bit slower lol.
 
-Run `python "path-to-py"` in your command line!
+Executables available in the `exec` folder!
+
+Run `python "path-to-py"` in your command line when using source code. Double click or cd into the directory with the executable and run `./main` to run the executable!
 
 Note: You may have to use either `python` or `python3` depending on your installed version of Python.
 
