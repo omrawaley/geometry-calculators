@@ -1,7 +1,7 @@
 # Calculators
-A bunch of geometry-related calculators—surface area, volume, hypotenuse, etc—written in Java, Python, C#, and C++. 
+A bunch of geometry-related calculators—surface area, volume, hypotenuse, etc—written in Java, Python, C#, C++, and Haskell.
 
-Java, Python, C#, and C++ versions available in the `Java`, `Python`, `C#`, and `C++` folders.
+Java, Python, C#, C++, and Haskell versions available in the `Java`, `Python`, `C#`, `C++`, and `Haskell` folders.
 
 ## For Java
 
@@ -28,3 +28,9 @@ Note: Only tested on MacOS.
 Double click the executable (`calculator`) to run. You can alternatively `cd` into `CylinderCalculator` and run `./calculator` in your command line!
 
 Makefile is included and to recompile, `cd` into `CylinderCalculator` and run `make -B calculator` in your command line after editing!
+
+## For Haskell
+
+Run `ghc Main.hs` to compile the program for your system.
+
+Run `./Main` to run the executable.
