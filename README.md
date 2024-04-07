@@ -1,5 +1,5 @@
 # Calculators
-A bunch of calculators—surface area, volume, hypotenuse, etc—written in Java, Python, C#, and C++. 
+A bunch of geometry-related calculators—surface area, volume, hypotenuse, etc—written in Java, Python, C#, and C++. 
 
 Java, Python, C#, and C++ versions available in the `Java`, `Python`, `C#`, and `C++` folders.
 
@@ -10,8 +10,6 @@ Java, Python, C#, and C++ versions available in the `Java`, `Python`, `C#`, and 
 Run `java -jar "path-to-jar"` in your command line!
 
 ## For Python
-
-Might be a bit slower lol.
 
 Executables available in the `exec` folder! (Created via [PyInstaller](https://pyinstaller.org/en/stable/))
 
@@ -26,8 +24,6 @@ Run `mono "path-to-Program.exe"` in your command line!
 Note: Only tested on MacOS.
 
 ## For C++
-
-The fastest so far, I think!
 
 Double click the executable (`calculator`) to run. You can alternatively `cd` into `CylinderCalculator` and run `./calculator` in your command line!
 
