@@ -1,0 +1,15 @@
+/Users/om/C#/TriangleLegCalculator/bin/Debug/net6.0/TriangleLegCalculator
+/Users/om/C#/TriangleLegCalculator/bin/Debug/net6.0/TriangleLegCalculator.deps.json
+/Users/om/C#/TriangleLegCalculator/bin/Debug/net6.0/TriangleLegCalculator.runtimeconfig.json
+/Users/om/C#/TriangleLegCalculator/bin/Debug/net6.0/TriangleLegCalculator.dll
+/Users/om/C#/TriangleLegCalculator/bin/Debug/net6.0/TriangleLegCalculator.pdb
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.csproj.AssemblyReference.cache
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.AssemblyInfoInputs.cache
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.AssemblyInfo.cs
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.csproj.CoreCompileInputs.cache
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.dll
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/refint/TriangleLegCalculator.dll
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.pdb
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/TriangleLegCalculator.genruntimeconfig.cache
+/Users/om/C#/TriangleLegCalculator/obj/Debug/net6.0/ref/TriangleLegCalculator.dll

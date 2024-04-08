@@ -1,0 +1,15 @@
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.csproj.AssemblyReference.cache
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.AssemblyInfoInputs.cache
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.AssemblyInfo.cs
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.csproj.CoreCompileInputs.cache
+/Users/om/C#/RectangularPrismCalculator/bin/Debug/net6.0/RectangularPrismCalculator
+/Users/om/C#/RectangularPrismCalculator/bin/Debug/net6.0/RectangularPrismCalculator.deps.json
+/Users/om/C#/RectangularPrismCalculator/bin/Debug/net6.0/RectangularPrismCalculator.runtimeconfig.json
+/Users/om/C#/RectangularPrismCalculator/bin/Debug/net6.0/RectangularPrismCalculator.dll
+/Users/om/C#/RectangularPrismCalculator/bin/Debug/net6.0/RectangularPrismCalculator.pdb
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.dll
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/refint/RectangularPrismCalculator.dll
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.pdb
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/RectangularPrismCalculator.genruntimeconfig.cache
+/Users/om/C#/RectangularPrismCalculator/obj/Debug/net6.0/ref/RectangularPrismCalculator.dll

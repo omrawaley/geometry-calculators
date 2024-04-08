@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TriangleHypotenuseCalculator:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TriangleHypotenuseCalculator_jar</output-path>
-    <root id="archive" name="TriangleHypotenuseCalculator.jar">
-      <element id="module-output" name="TriangleHypotenuseCalculator" />
-    </root>
-  </artifact>
-</component>

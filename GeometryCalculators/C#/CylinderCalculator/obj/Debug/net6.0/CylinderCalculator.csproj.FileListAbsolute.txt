@@ -1,0 +1,15 @@
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.csproj.AssemblyReference.cache
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.AssemblyInfoInputs.cache
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.AssemblyInfo.cs
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.csproj.CoreCompileInputs.cache
+/Users/om/C#/CylinderCalculator/bin/Debug/net6.0/CylinderCalculator
+/Users/om/C#/CylinderCalculator/bin/Debug/net6.0/CylinderCalculator.deps.json
+/Users/om/C#/CylinderCalculator/bin/Debug/net6.0/CylinderCalculator.runtimeconfig.json
+/Users/om/C#/CylinderCalculator/bin/Debug/net6.0/CylinderCalculator.dll
+/Users/om/C#/CylinderCalculator/bin/Debug/net6.0/CylinderCalculator.pdb
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.dll
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/refint/CylinderCalculator.dll
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.pdb
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/CylinderCalculator.genruntimeconfig.cache
+/Users/om/C#/CylinderCalculator/obj/Debug/net6.0/ref/CylinderCalculator.dll
